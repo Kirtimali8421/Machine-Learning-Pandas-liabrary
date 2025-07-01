@@ -1,1 +1,2 @@
 # Machine-Learning-Pandas-liabrary
+This Jupyter Notebook demonstrates the use of the Pandas library for data analysis and preprocessing. It includes key operations such as loading datasets, handling missing values, filtering data, grouping, and summarizing using Series and DataFrames. This project is part of a learning module to understand the fundamentals of data manipulation in Python using Pandas.
